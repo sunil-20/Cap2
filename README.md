@@ -1,6 +1,6 @@
 ![Screenshot 2021-09-10 232139](https://user-images.githubusercontent.com/62193201/132934648-b8b2afbd-b2cd-43b9-a58c-5a4faf2f56ed.png)
 
-
+------
 
 The U.S. Small Business Administration(SBA), which came out of the response to the Great Depression and World War II has been helping small business establishments since 1953 in the U.S. SBA is providing assistance to the small business establishment by providing easier access to the capital market via loan guarantees, contracts and counseling. 
 
