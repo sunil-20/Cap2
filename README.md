@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/sunil-20/Cap2/main/Other_doc/defaulters.png
+![alt text] (https://raw.githubusercontent.com/sunil-20/Cap2/main/Other_doc/defaulters.png)
 
 The U.S. Small Business Administration(SBA), which came out of the response to the Great Depression and World War II has been helping small business establishments since 1953 in the U.S. SBA is providing assistance to the small business establishment by providing easier access to the capital market via loan guarantees, contracts and counseling. 
 
